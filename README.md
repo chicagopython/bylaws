@@ -253,14 +253,14 @@ coming election will be made publicly available. This communication will also
 include the list of voters who can cast ballots or Nominate candidates to the
 Board.
 
-**First regular Board meeting in December: **Last voter list ratification
+**First regular Board meeting in January: **Last voter list ratification
 before elections.
 
-**December 15th: **Call for Board nominations made via email to Organizers and
+**January 15th: **Call for Board nominations made via email to Organizers and
 Board members. The email will include a description of nomination requirements,
 a Board member’s role, and instructions on how to cast a nomination.
 
-**January 7th:** Advance notice of the:
+**February 7th:** Advance notice of the:
 
 1. names of the Board Members not subject to election,
 2. the number of positions available on the Board in the coming election,
@@ -270,15 +270,17 @@ a Board member’s role, and instructions on how to cast a nomination.
 
 will be made available to eligible voters via email.
 
-**January 14th:** Voting opens. Email reminders about voting will be sent to eligible voters.
+**February 14th:** Voting opens. Email reminders about voting will be sent to
+eligible voters.
 
-**January 31st: **Voting closes.
+**February 31st: **Voting closes.
 
-**February 2nd: **Results announced via email.
+**March 2nd: **Results announced via email.
 
-**February __main__ meeting**: Election process and results announced.
+**March __main__ meeting**: Election process and results announced.
 
-**First regular board meeting after results announced**: New board terms take effect.
+**First regular board meeting after results announced**: New board terms take
+effect.
 
 
 # Amending the Bylaws {#amending-the-bylaws}
