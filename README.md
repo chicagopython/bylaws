@@ -273,7 +273,7 @@ will be made available to eligible voters via email.
 **February 14th:** Voting opens. Email reminders about voting will be sent to
 eligible voters.
 
-**February 31st: **Voting closes.
+**February 28th: **Voting closes.
 
 **March 2nd: **Results announced via email.
 
