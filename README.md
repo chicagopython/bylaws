@@ -28,19 +28,20 @@ inclusive, community-driven events and resources in Chicago.
 
 # Membership {#membership}
 
-## Eligibility to be a Membership {#eligibility-to-be-a-membership}
+## Eligibility to be a Member {#eligibility-to-be-a-member}
 
-A Member is defined as anyone who attends at least one ChiPy meeting a year in
-person, or who is an Organizer or Board member.
+A Member is defined as anyone who attends at least one ChiPy meeting a year,
+or who is an Organizer or Board member.
+Membership may be revoked for violations of ChiPy's Code of Conduct.
 
 Note that currently ChiPy membership confers no status or powers.
 
 
 ## Eligibility to be an Organizer {#eligibility-to-be-an-organizer}
 
-An Organizer is defined by the Board in the List of Organizers. Qualification
-to be considered an Organizer is having been a volunteer in hosting/producing a
-ChiPy event or offering, outside of in a paid capacity, in the prior 12 months.
+An Organizer is defined by the Board in the List of Organizers. Qualifications
+to be considered an Organizer are being a member and 
+having been a volunteer in hosting/producing a ChiPy event or offering, outside of in a paid capacity, in the prior 12 months.
 Additionally, “Outstanding/significant contributors” may be awarded Organizer
 status. Organizer nominations or removals must be put forward by an existing
 Organizer or Board member and ratified by Board vote.
@@ -228,9 +229,10 @@ Nominations will be made via the Voting Platform.
 
 In order to be on the ballot, a nominee must:
 
-1. live at least part of the year in the greater Chicagoland area and are able
-to attend events
-2. have attended at least two events in the last 12 months.
+1. live at least part of the year in the greater Chicagoland area,
+2. be able to attend events,
+3. have attended at least two events in the last 12 months, and 
+4. be a member.
 
 Note: Board Members do NOT have to be day-to-day organizers. They are, however,
 responsible for overseeing organizers (making sure they are enabled for success
