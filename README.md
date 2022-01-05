@@ -93,6 +93,9 @@ board to groom the next generation.
 
 A Board member can be removed by a majority vote of the other Board members.
 
+Board members will automatically be removed if they miss more than 50% of the board meetings during a term,
+unless there is a majority vote to the contrary.
+
 ## Vacancy Filling {#vacancy-filling}
 
 Any vacancy on the  Board shall be filled without undue delay by a majority
