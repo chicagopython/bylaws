@@ -82,12 +82,8 @@ The Board is made up of seven people (including the chair).
 ## Position Terms {#position-terms}
 
 Board Members are appointed by election to terms of two years, with an effort
-toward having half the board seats up for election at any point in time. An
-individual Board member may serve no more than two consecutive whole terms or 5
-consecutive years (whichever is shorter). There is no lifetime limit for the
-number of years a Board member may serve. Term limits are a way to bring  in
-new perspectives, limiting potential abuse of power, and encouraging existing
-board to groom the next generation.
+toward having half the board seats up for election at any point in time. There 
+is no lifetime limit for the number of years a Board member may serve. 
 
 ## Removal {#removal}
 
