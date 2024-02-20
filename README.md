@@ -91,7 +91,9 @@ A Board member can be removed by a majority vote of the other Board members.
 
 Board members will automatically be removed if they miss 65% of all regularly
 scheduled board meetings meetings during a term (given an 8 month window),
-unless there is a majority vote to the contrary.
+unless there is a majority vote to the contrary. Such a vote to override
+automatic explulsion would last for up to one-quarter before it would need to
+be renewed; overrides can be undone at any time by a subsequent majority vote.
 
 ## Vacancy Filling {#vacancy-filling}
 
