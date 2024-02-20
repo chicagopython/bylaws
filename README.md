@@ -40,7 +40,7 @@ Note that currently ChiPy membership confers no status or powers.
 ## Eligibility to be an Organizer {#eligibility-to-be-an-organizer}
 
 An Organizer is defined by the Board in the List of Organizers. Qualifications
-to be considered an Organizer are being a member and 
+to be considered an Organizer are being a member and
 having been a volunteer in hosting/producing a ChiPy event or offering, outside of in a paid capacity, in the prior 12 months.
 Additionally, “Outstanding/significant contributors” may be awarded Organizer
 status. Organizer nominations or removals must be put forward by an existing
@@ -82,14 +82,15 @@ The Board is made up of seven people (including the chair).
 ## Position Terms {#position-terms}
 
 Board Members are appointed by election to terms of two years, with an effort
-toward having half the board seats up for election at any point in time. There 
-is no lifetime limit for the number of years a Board member may serve. 
+toward having half the board seats up for election at any point in time. There
+is no lifetime limit for the number of years a Board member may serve.
 
 ## Removal {#removal}
 
 A Board member can be removed by a majority vote of the other Board members.
 
-Board members will automatically be removed if they miss more than 50% of the board meetings during a term,
+Board members will automatically be removed if they miss 65% of all regularly
+scheduled board meetings meetings during a term (given an 8 month window),
 unless there is a majority vote to the contrary.
 
 ## Vacancy Filling {#vacancy-filling}
@@ -230,7 +231,7 @@ In order to be on the ballot, a nominee must:
 
 1. live at least part of the year in the greater Chicagoland area,
 2. be able to attend events,
-3. have attended at least two events in the last 12 months, and 
+3. have attended at least two events in the last 12 months, and
 4. be a member.
 
 Note: Board Members do NOT have to be day-to-day organizers. They are, however,
